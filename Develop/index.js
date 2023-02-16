@@ -11,7 +11,6 @@
 
 // Function call to initialize app
 // init();
-
 /////////////////////////////////////////////////
 const generateReadme = require('./utils/generateMarkdown');
 
